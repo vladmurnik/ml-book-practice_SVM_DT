@@ -65,8 +65,8 @@ The `SVM.ipynb` notebook demonstrates:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/vladmurnik/ml-book-practice_SVM_DT
+cd ml-book-practice_SVM_DT
 ```
 
 Install dependencies:
